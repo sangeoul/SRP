@@ -1,0 +1,208 @@
+body{
+    background-color:black;
+    color:rgb(184, 255, 166);
+}
+
+table {
+
+    border-collapse:collapse;
+}   
+
+td{
+
+    border-collapse:collapse;
+    border:solid 1px rgb(29, 75, 128);
+    background-color:black;
+
+}
+
+
+a.pagen{
+    font-size:22px;
+    margin-left:10px;
+    color:rgb(255, 158, 11)
+}
+b.pagen{
+    font-size:23px;
+    margin-left:10px;
+}
+span.loca,locasecu{
+
+    font-weight:bold;
+}
+
+span.submitsrp{
+    background-color:rgba(20,90,20,1);
+    color:white;
+    padding:5px;
+    padding-top:8px;
+    padding-bottom:8px;   
+
+}
+span.submitsrp:hover{
+    background-color:rgba(60,150,60,1);
+    color:white;
+    padding:5px;
+    padding-top:8px;
+    padding-bottom:8px;   
+
+}
+span.zklink{
+
+    background-color:black;
+    color:white;
+    padding:5px;
+    padding-top:8px;
+    padding-bottom:8px;
+    
+    
+}
+span.zklink:hover{
+
+background-color:rgba(30,30,30,1);
+color:white;
+padding:5px;
+padding-top:8px;
+padding-bottom:8px;
+
+}
+
+a.updatekillmail{
+    font-size:20px;
+    background-color:rgba(0,0,130,1);
+    color:white;
+    padding:4px;
+    margin-top:6px;
+    text-decoration:none;
+}
+
+a.updatekillmail:hover{
+    background-color:rgba(40,40,240,1);  
+}
+a.mainbutton{
+    background-color:rgba(30,110,50,1);
+    color:white;
+    font-size:50px;
+    padding:10px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+}
+a.mainbutton:hover {
+    background-color:rgba(60,170,60,1);
+    color:white;
+
+}
+a.myloss{
+    background-color:rgba(110,30,30,1);
+    color:white;
+    font-size:20px;
+    padding:6px;
+    text-decoration:none;
+}
+a.myloss:hover {
+    background-color:rgba(160,80,80,1);
+    color:white;
+    font-size:22px;
+    padding:6px;
+
+    text-decoration:none;
+}
+td.shipimg{
+    width:64px;
+    height:64px;
+
+}
+td.shipname{
+    width:120px;
+
+}
+td.userport{
+    width:64px;
+    height:64px;
+}
+td.username{
+    width:200px;
+}
+td.SRP_result{
+    background-color:black;
+    width:140px;
+}
+
+td.zklink{
+    width:60px;
+
+}
+td.location{
+
+
+}
+td.killdate{
+
+}
+
+td.memo_space{
+    background-color:black;
+}
+div.memo_space{
+    margin:8px;
+    margin-left:18px;
+}
+td.emoji_space{
+    background-color:black;
+}
+div.emoji_space{
+    margin:4px;
+    margin-bottom:20px;
+}
+table.emoji_table{
+
+}
+td.emoji_icon{
+    border:0px;
+    background-color:black;
+
+}
+img.emoji_icon{
+    opacity:1.0;
+    width:32px;
+    height:32px;
+    
+}
+
+img.emoji_icon_zero{
+    opacity:0.2;
+    width:32px;
+    height:32px;
+}
+
+td.emoji_num{
+    border:0px;
+    background-color:black;
+}
+span.emoji_num{
+    background-color:rgb(46, 39, 66);
+    padding:3px;
+    margin-right:10px;
+    font-size:19px;
+}
+
+
+
+span.emoji_num_my{
+    background-color:rgb(99, 122, 223);
+    padding:3px;
+    margin-right:10px;
+    font-size:19px; 
+}
+
+span.SRP_pending{
+    color:rgba(195,88,23,1);
+}
+span.SRP_accepted{
+    color:rgba(74,160,44,1);
+}
+span.SRP_rejected{
+    color:rgba(155,17,30,1);
+}
+
